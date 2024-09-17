@@ -1,2 +1,0 @@
-ALTER TABLE users
-ALTER COLUMN isadmin SET DEFAULT false  
