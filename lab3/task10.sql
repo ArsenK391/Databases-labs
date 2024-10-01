@@ -1,0 +1,1 @@
+SELECT department, COUNT(*) as num_employees FROM employees GROUP BY department 

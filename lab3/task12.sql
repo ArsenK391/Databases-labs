@@ -1,0 +1,1 @@
+SELECT name FROM departments ORDER BY budget DESC LIMIT 1 OFFSET 1 

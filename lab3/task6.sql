@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE lastname IN ('Smith', 'Doe') 

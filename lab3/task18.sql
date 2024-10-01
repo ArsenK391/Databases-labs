@@ -1,0 +1,1 @@
+DELETE FROM employees WHERE department = (SELECT code FROM departments WHERE name = 'IT') 

@@ -1,0 +1,1 @@
+SELECT department FROM employees GROUP BY department HAVING COUNT(*) > 2 

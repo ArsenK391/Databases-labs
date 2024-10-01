@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE department IN (37, 77) 
