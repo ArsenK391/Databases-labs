@@ -1,0 +1,2 @@
+DELETE FROM boxes
+WHERE value < 150;
